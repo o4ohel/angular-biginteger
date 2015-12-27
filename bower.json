@@ -1,0 +1,23 @@
+{
+  "name": "angular-biginteger",
+  "main": "angular-biginteger.js",
+  "version": "0.1.0",
+  "authors": [
+    "Ofer Ohel <ofer.ohel@primarydata.com>"
+  ],
+  "description": "An angular wrapper for Peter Olson's BigInteger.js library",
+  "moduleType": [],
+  "keywords": [
+    "bigintegers"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
