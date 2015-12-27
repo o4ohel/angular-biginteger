@@ -2,9 +2,14 @@
   "name": "angular-biginteger",
   "main": "angular-biginteger.js",
   "version": "0.1.0",
-  "authors": [
-    "Ofer Ohel <ofer.ohel@primarydata.com>"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/o4ohel/angular-biginteger.git"
+  },
+  "author": {
+    "email": "o4ohel@gmail.com",
+    "name": "Ofer Ohel"
+  },
   "description": "An angular wrapper for Peter Olson's BigInteger.js library",
   "moduleType": [],
   "keywords": [
